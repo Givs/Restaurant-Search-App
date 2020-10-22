@@ -14,7 +14,7 @@
 ---
 
 # 📖About
-A simple project using React Native and Expo. The application is a kind of a restaurant Search app. I use
+A simple project using React Native and Expo. This application is a kind of a restaurant Search app. I use
 Yelp API to get some results and display in different
 categories of restaurants. The main goal is to pratice API request. 
 
